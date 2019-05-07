@@ -1,0 +1,4 @@
+1,bulbasaur,66,9.56,0.79
+2,charmander,54,4.94,0.45
+3,squirtle,38,7.04,0.45
+4,pikachu,50,7.6,0.44
